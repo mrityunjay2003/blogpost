@@ -28,7 +28,7 @@ A minimal yet functional web application built with Node.js, Express, and MongoD
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/blog-post-app.git
+git clone https://github.com/mrityunjay2003/blog-post-app.git
 ```
 
 2. Navigate to the project directory:
